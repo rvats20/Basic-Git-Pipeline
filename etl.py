@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np
+import numpy as n
 from pandas.core.frame import DataFrame
 
 def extract(file_path: str) -> DataFrame:
